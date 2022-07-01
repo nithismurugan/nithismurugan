@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nithismurugan
-- 👀 I’m interested in tech, IoT.
-- 🌱 I’m currently learning Phython for Analysis
+- 👀 I’m interested in Technology, Gagets, IoTs & a lot more.
+- 🌱 I’m currently learning Phython Basics
 - 💞️ I’m looking to collaborate on project where I can work with the knowlegde I have gathered & learn new stuffs
 
 <!---
